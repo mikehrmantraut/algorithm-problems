@@ -1,7 +1,4 @@
-Solutions of Dictionaries and Hashmaps from The HackerRank Interview Preparation Kit
+# HackerRank Solutions
+I will add all Problem Solving and Python solutions to this repository. (Hopefully :))
 --
-- Hash Tables: Ransom Note
-- Two Strings 
-- Sherlock and Anagrams (will be added)
-- Count Triplets
-- Frequency Queries (will be added)
+
